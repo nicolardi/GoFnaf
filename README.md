@@ -1,4 +1,53 @@
 # GoFnaf
+<pre>
+<span style="color: green">
+  ____|  _)                            _)           |       |
+  |       |  \ \   /    _ \     __ \    |    _` |   __ \    __|    __|
+  __|     |   \ \ /     __/     |   |   |   (   |   | | |   |    \__ \
+ _|      _|    \_/    \___|    _|  _|  _|  \__, |  _| |_|  \__|  ____/
+                                           |___/
+</span>
+<span style="color: red">
+                                @@@@@@  @@@@@@@   @@@@@@@@ @@@@@@@  @@@@@@@@ @@@@@@@  @@@@@@@  @@@ @@@  @@  @@@@@@
+                               @@!  @@@   @@!     @@!      @@!  @@@ @@!      @@!  @@@ @@!  @@@ @@! !@@ !@  !@@
+                               @!@!@!@!   @!!     @!!!:!   @!@!!@!  @!!!:!   @!@  !@! @!@  !@!  !@!@!       !@@!!
+                               !!:  !!!   !!:     !!:      !!: :!!  !!:      !!:  !!! !!:  !!!   !!:           !:!
+                                :   : :    :       :        :   : : : :: ::: :: :  :  :: :  :    .:        ::.: :
+</span>
+*** GO Version
+</pre>
+
+This project is just an experiment to learn go language and a tribute to the game Five Nights at Freddy's
+
+# How it works
+
+Just do the following
+
+- run the server
+- run the client and play
+
+Once started the server as many clients as you like can connect and play hard
+
+# What's the game about?
+
+[Five Nights at Freddy's](https://en.wikipedia.org/wiki/Five_Nights_at_Freddy's) is an indie videogame which dates back to 2014.
+
+You accept a job at "Freddy Fazbear's Pizza" the main attraction of the location being a set of animatronics.
+Your task is to check that everything is fining during the night from midnight to 6AM.
+On your first work-day you start to understand that something is wrong. The animatronics wake up during the night and start walking
+from one room to another until they reach your office ancd kill you.
+
+You can only do a few basic actions to stay safe: close doors and look at camera's to see where the animatronic are.
+But closing the door drains energy from the battery. If it's over the place becomes dark and the doors reset open and you cannot defend yourself anymore.
+
+Are you sure you want to start this nightmare? If so download the sources and start playing!
+
+# How to start the server
+
+
+
+
+
 a recreation of five night at freddy's as a text game in GO 
 
 ## What works
